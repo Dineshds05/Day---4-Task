@@ -96,3 +96,12 @@ function Averageofbatsman(runs, matches, notout){
 Averageofbatsman(5000, 200, 50)
 
 //
+log("...........obj compares..............");
+let obj1 = {name : "Person 1",age : 5};
+let obj2 = {age : 5,name : "Person 1" };
+log(obj1);
+log(obj2);
+log(obj1.name);
+log(obj2.age);
+log(obj1.age);
+log(obj2.name);

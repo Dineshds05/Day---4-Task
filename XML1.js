@@ -10,3 +10,4 @@ xhr1.onload = function(){
     document.writeln("........web page output.....document.writeln(xhr1.response).........")
     document.writeln(xhr1.response)
 }
+
